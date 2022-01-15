@@ -1,0 +1,32 @@
+.base{
+  
+    color: white;
+
+}
+.title{
+    text-align: center;
+}
+.form_box{
+    padding-top: 5rem;
+}
+.radio{
+    padding-left: 15px;
+}
+.table-box{
+    padding-left: 2rem;
+
+}
+.form{
+    padding-top: 1rem;
+}
+.validate{
+    color: red;
+    text-align: center;
+}
+.form-control{
+    /* padding-left: 16rem; */
+    text-align: center;
+}
+.submit{
+    text-align: center;
+}

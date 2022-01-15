@@ -1,0 +1,21 @@
+.navbar{
+    
+    background-color: black;
+    height: 4rem;
+    
+    
+  
+}
+.logo{
+    
+    left: 20px;
+    height: 3rem;
+    width: 5rem;
+    border-radius: 10px;
+}
+.school_name{
+    
+    right: 20px;
+    color: rgb(17, 132, 170);
+    
+}
